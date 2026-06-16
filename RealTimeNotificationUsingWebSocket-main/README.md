@@ -21,5 +21,5 @@ A Spring Boot application demonstrating real-time notifications using WebSocket,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Surajhub21/RealTimeNotificationUsingWebSocket.git
+git clone https://github.com/KondalwadiDeepika/Real-Time-Notification-System-Using-WebSocket.git
 cd RealTimeNotificationUsingWebSocket
